@@ -1,0 +1,28 @@
+Web Development Project: Library Management System
+By the end of this project, you will have an understanding of how to build web applications using React.
+Deadline: February 20, 2025
+Requirements:
+1. 
+Header: A header with navigation links for Home, Login, and Dashboard.
+2. 
+Footer: A footer with a copyright message.
+3. 
+Home Page:
+ Displays the website's name and an "About" section.
+ Includes a table showing all available books.
+ Clicking on a book opens a form to purchase it, asking for:
+ Username
+ Email
+ Phone number
+ Country
+ Gender
+ A submit button that, when clicked, shows an alert confirming a successful purchase.
+4. 
+Admin Panel:
+ After login, the user is redirected to the admin dashboard.
+ Admin features include:
+ Adding books with relevant information (form-based entry).
+ Viewing available books with options to edit or remove them.
+5. 
+Login Screen:
+ Asks the user for a username and password.
